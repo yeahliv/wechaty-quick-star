@@ -1,8 +1,8 @@
 > 作者: [yeahliv](https://github.com/yeahliv)
 >
-> Github 仓库：[wechaty-quick-star](https://github.com/yeahliv/wechaty-quick-start)
+> Github 仓库：[wechaty-quick-start](https://github.com/yeahliv/wechaty-quick-start)
 
-# wechaty-quick-star
+# wechaty-quick-start
 
 ## wechaty 快速开始项目结构
 
