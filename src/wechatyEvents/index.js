@@ -23,7 +23,7 @@ events.leave = require('./events/leave')
 events.login = require('./events/login')
 
 // 退出
-events.logout = require('./events/logout')
+events.loginout = require('./events/loginout')
 
 // 消息
 events.msg = require('./events/msg')
